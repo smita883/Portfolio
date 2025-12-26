@@ -1,0 +1,14 @@
+.hero {
+    background: linear-gradient(to right, #000428, #004e92);
+    color: white;
+    padding: 80px 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.card {
+    text-align: center;
+    font-weight: bold;
+}
